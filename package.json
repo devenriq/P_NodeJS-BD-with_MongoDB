@@ -1,0 +1,27 @@
+{
+  "name": "backendnode",
+  "version": "0.1.0",
+  "description": "Un chat como telegram, pero mejor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octenrique/Platzi_NodeJS-BD-with_MongoDB.git"
+  },
+  "keywords": [
+    "chat",
+    "telegram",
+    "server"
+  ],
+  "author": "Octavio Palomino <octepc.97@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octenrique/Platzi_NodeJS-BD-with_MongoDB/issues"
+  },
+  "homepage": "https://github.com/octenrique/Platzi_NodeJS-BD-with_MongoDB#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
